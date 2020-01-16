@@ -1,0 +1,12 @@
+
+
+1. Write an ALP using ARM instruction set to add and subtract 2 numbers in the register.
+
+2. Write an ALP to demonstrate logical operations.
+
+3. Write an ALP to add 5 numbers where values are present in registers.
+
+4. Write an ALP using ARM instruction set to check if a number is even or odd.
+
+5. Compare the value of R0 and R1, add if R0 = R1, else subtract
+ 
