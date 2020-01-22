@@ -1,3 +1,6 @@
+;Sum of all the elements in the array
+
+
 .text
 	mov r0,#10
 	mov r2, #0
