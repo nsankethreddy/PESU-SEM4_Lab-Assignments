@@ -1,4 +1,4 @@
-ADD 2 numbers loaded from memory
+;ADD 2 numbers loaded from memory
 
 .text
 
