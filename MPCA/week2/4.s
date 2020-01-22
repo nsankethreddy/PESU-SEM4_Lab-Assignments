@@ -1,3 +1,5 @@
+;Copy all the values from an array a to b
+
 .text
 	mov r0, #10
 	ldr r1, =a
