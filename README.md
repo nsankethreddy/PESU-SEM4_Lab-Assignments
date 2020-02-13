@@ -6,5 +6,6 @@ DAA and MPCA lab programs
   
   Sec C Assignments  
   DBMS  
-  LA
+  LA  
+  ToC
     
