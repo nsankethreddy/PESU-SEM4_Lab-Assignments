@@ -3,8 +3,8 @@
 # Labs  
   
 DAA:  
-*_ Lab 1: Linear search.  
-*_ Naive String Matching  
+- Lab 1: Linear search.  
+- Naive String Matching  
  
 DAA and MPCA lab programs  
 
