@@ -12,7 +12,11 @@
 - MPCA  
   
 *__Assignments__* (C section)  
-  DBMS  
-  LA  
-  ToC
+  - DBMS:
+    - Assignmwnt 1 - ER diagram  
+  - LA:
+    - Unit 1
+    - Unit 2
+  - ToC:
+    - Assignment 1-2
     
