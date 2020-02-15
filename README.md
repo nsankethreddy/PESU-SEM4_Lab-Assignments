@@ -9,10 +9,9 @@
   - Lab 5: Comparison of sorting algorithms
   - Lab 6: Pepe Graph. DFS  
     
-  - MPCA:
-    
-    
-  Sec C Assignments  
+- MPCA  
+  
+*__Assignments__* (C section)  
   DBMS  
   LA  
   ToC
