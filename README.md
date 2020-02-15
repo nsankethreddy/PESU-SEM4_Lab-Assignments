@@ -2,7 +2,7 @@
   
 # Labs  
   
--DAA:  
+- DAA:  
  - Lab 1: Linear search.  
  - Naive String Matching  
  
