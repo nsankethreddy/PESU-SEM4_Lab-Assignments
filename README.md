@@ -13,7 +13,7 @@
   
 *__Assignments__* (C section)  
   - DBMS:
-    - Assignmwnt 1 - ER diagram  
+    - Assignment 1 - ER diagram  
   - LA:
     - Unit 1
     - Unit 2
