@@ -4,7 +4,8 @@
   
 - DAA:  
   - Lab 1: Linear search.  
-  - Naive String Matching  
+  - Lab 2: Naive String Matching  
+  - Lab 3: Selection and Bubble sort  
  
 DAA and MPCA lab programs  
 
