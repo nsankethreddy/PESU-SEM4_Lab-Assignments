@@ -2,9 +2,9 @@
   
 # Labs  
   
-DAA:  
-- Lab 1: Linear search.  
-- Naive String Matching  
+-DAA:  
+ - Lab 1: Linear search.  
+ - Naive String Matching  
  
 DAA and MPCA lab programs  
 
