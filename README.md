@@ -1,7 +1,6 @@
-*__SEM 4__*  
+# SEM-4  
   
-# Labs  
-  
+*__LABS__*   
 - DAA:  
   - Lab 1: Linear search.  
   - Lab 2: Naive String Matching  
