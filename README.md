@@ -7,12 +7,11 @@
   - Lab 3: Selection and Bubble sort 
   - Lab 4: Travelling Salesman problem  
   - Lab 5: Comparison of sorting algorithms
-  - Lab 6: Pepe Graph. DFS
- 
-DAA and MPCA lab programs  
-
-
-  
+  - Lab 6: Pepe Graph. DFS  
+    
+  - MPCA:
+    
+    
   Sec C Assignments  
   DBMS  
   LA  
