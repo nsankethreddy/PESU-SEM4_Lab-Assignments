@@ -11,7 +11,11 @@
   - Lab 7: Merge Sort  
   
     
-- MPCA  
+- MPCA:   
+  - Lab 4: Simple codes for Hardware components  
+  - Lab 5:
+      - 1)Find the length of a string
+
   
 *__Assignments__* (C section)  
   - DBMS:
