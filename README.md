@@ -12,6 +12,14 @@
   
     
 - MPCA:   
+  - Lab 1: Introduction to arm
+  - Lab 2: Load store instructions
+  - Lab 3: 
+      - 1)Add all the elements in a array/byte instructions
+      - 2)Search for an element in an array if found move its position to R7 else move -1 to R6
+      - 3)Generate Febonacci series
+      - 4)Permon convolution using MUL and ADD instruction
+      - 5)Permon convolution using MLA instruction
   - Lab 4: Simple codes for Hardware components  
   - Lab 5:
       - 1)Find the length of a string
