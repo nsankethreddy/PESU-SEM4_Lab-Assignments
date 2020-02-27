@@ -8,6 +8,8 @@
   - Lab 4: Travelling Salesman problem  
   - Lab 5: Comparison of sorting algorithms
   - Lab 6: Pepe Graph. DFS  
+  - Lab 7: Merge Sort  
+  
     
 - MPCA  
   
