@@ -15,6 +15,9 @@
   - Lab 4: Simple codes for Hardware components  
   - Lab 5:
       - 1)Find the length of a string
+      - 2)Copy string from one location to another
+      - 3)Check weather the given charcter is present in a string
+      - 4)Check if the given number has odd or even parity of 1s and display the result
 
   
 *__Assignments__* (C section)  
