@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include "mergeSort.h"
-#had to edit the commit
 
 void mergeSortedHalfs(int *a, int start, int mid, int end){
 	int i,j,k;
