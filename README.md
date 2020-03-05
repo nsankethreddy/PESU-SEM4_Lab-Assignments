@@ -30,6 +30,8 @@
       - 1)Set led to light up
       - 2)Streaming right to left
       - 3)Program to display 0 to F and F to 0 on the eight segment
+  - Lab 8:
+      - Question is in the resp. folder
 
   
 *__Assignments__* (C section)  
