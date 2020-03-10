@@ -10,6 +10,7 @@
   - Lab 6: Pepe Graph. DFS  
   - Lab 7: Merge Sort  
   - Lab 8: Quik Sort
+  - Lab 9: Heap Sort  
     
 - MPCA:   
   - Lab 1: Introduction to arm
