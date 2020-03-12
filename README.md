@@ -11,6 +11,7 @@
   - Lab 7: Merge Sort  
   - Lab 8: Quik Sort
   - Lab 9: Heap Sort  
+
     
 - MPCA:   
   - Lab 1: Introduction to arm
@@ -32,6 +33,8 @@
       - 2)Streaming right to left
       - 3)Program to display 0 to F and F to 0 on the eight segment
   - Lab 8:
+      - Question is in the resp. folder
+  - Lab 9:
       - Question is in the resp. folder
 
   
