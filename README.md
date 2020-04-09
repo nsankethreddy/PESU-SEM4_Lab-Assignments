@@ -10,7 +10,9 @@
   - Lab 6: Pepe Graph. DFS  
   - Lab 7: Merge Sort  
   - Lab 8: Quik Sort
-  - Lab 9: Heap Sort  
+  - Lab 9: Heap Sort
+  - Lab 10 : ERROR NOT DONE
+  - Lab 11 : TSP
 
     
 - MPCA:   
@@ -50,3 +52,4 @@
   - ToC:
     - Assignment 1-2  
     
+ ## PS: If yall are gonna copy the code or the Assignment PLEASE alter it atleast by a bit.
