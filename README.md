@@ -50,6 +50,7 @@
     - Unit 2
     - Unit 4
   - ToC:
-    - Assignment 1-2  
-    
- ## PS: If yall are gonna copy the code or the Assignment PLEASE alter it atleast by a bit.
+    - Assignment 1-2    
+      
+ -----------------------------------------------------------------------------------------------------------------------
+ ## PS: If yall are gonna copy the code or the assignments PLEASE alter it atleast by a bit.
