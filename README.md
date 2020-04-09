@@ -41,9 +41,12 @@
 *__Assignments__* (C section)  
   - DBMS:
     - Assignment 1 - ER diagram  
+    - Assignment 2
+    - Assignmen 4
   - LA:
     - Unit 1
     - Unit 2
+    - Unit 4
   - ToC:
     - Assignment 1-2  
     
